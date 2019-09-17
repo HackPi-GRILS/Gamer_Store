@@ -1,5 +1,5 @@
 # Gamer Store
-<b> <h1>#  Projeto 4 - Gamer Sotre </h1> </b>
+<b> <h1>#  Projeto 4 - Gamer Store </h1> </b>
  
  <hr size=8 width=50% align=right>
 
